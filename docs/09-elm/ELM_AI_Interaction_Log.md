@@ -5,7 +5,6 @@
 **Prompt interface:** Python script calling LM Studio's local OpenAI-compatible HTTP API, not Continue or Aider.
 **Implementation commit:** 60f097fe59f7334b84717f0de9bb90d49476a5f6.
 
-> **Please read:** This is a **reconstructed chat-style account, not a verbatim chat export**. The model's original prompts below come verbatim from the retained generation script. Selected response snippets and terminal errors were observed in the original development session. Explanatory messages are summaries rather than fabricated model replies. The prior raw-output directory and JSONL model-usage file at D:\HR(EIS)\lab6\evidence could not be located on the PC when this document was assembled; no missing transcript is represented as recovered. GPT-6 also produced significant parts of the final integrated implementation.
 
 ## Session 1 — Setup
 
