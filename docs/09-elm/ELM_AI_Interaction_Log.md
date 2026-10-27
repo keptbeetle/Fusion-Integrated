@@ -229,4 +229,4 @@ The branch assignment6/elm-qwen25vl was pushed to the keptbeetle fork and opened
 
 The LM Studio model genuinely produced three initial file drafts, but they were not fully usable without correction and significant integration work. The final pilot has a limited leave workflow, not all 32 coherent ELM functional requirements. For details, see [assignment6-pilot.md](assignment6-pilot.md).
 
-**Form warning:** This log is for the **Qwen2.5-VL-7B / LM Studio** trial and is not evidence for a separate **DeepSeek / Continue** phase. The Google Form label P1-2 might refer to a different model trial; use this link only for the trial it actually represents.
+
