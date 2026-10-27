@@ -5,6 +5,8 @@
 **Prompt interface:** Python script calling LM Studio's local OpenAI-compatible HTTP API, not Continue or Aider.
 **Implementation commit:** 60f097fe59f7334b84717f0de9bb90d49476a5f6.
 
+Note: LM Studio doesn't provide access to publically share chat link,this is only demonstration a actual prompts and outputs of the model
+
 
 ## Session 1 — Setup
 
